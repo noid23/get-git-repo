@@ -5,3 +5,5 @@ Usage: ./get-get-repo.sh GITHUBUSERNAME
 
 Example
 $ ./get-git-repo.sh noid23
+
+$ ./get-multiple-git-repos.sh noid23 nccgroup ...
